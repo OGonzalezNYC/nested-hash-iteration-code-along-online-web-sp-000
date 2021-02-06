@@ -30,5 +30,5 @@ require 'pry'
 # end
 
 def remove_strawberry(contacts)
-  contacts["Freddy Mercury"][:]
+  contacts["Freddy Mercury"][:favorite_ice_cream_flavors].delte_at[0]
 end
