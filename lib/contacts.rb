@@ -30,5 +30,5 @@ require 'pry'
 # end
 
 def remove_strawberry(contacts)
-  contacts[]
+  contacts["Freddy Mercury"][:]
 end
