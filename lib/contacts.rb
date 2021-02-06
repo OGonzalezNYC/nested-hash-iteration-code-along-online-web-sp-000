@@ -28,3 +28,7 @@ require 'pry'
 #     end
 #   end
 # end
+
+def remove_strawberry(contacts)
+  
+end
